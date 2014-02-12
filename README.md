@@ -1,8 +1,21 @@
 Plugin-Disqus
 =============
 
+[Disqus](http://disqus.com) is a third-party comments service. A really good one. This will make using them with Statamic really, really easy.
 Disqus plugin for Statamic.
 
-## Changes
+## Installing
+1. Download the zip file (or clone via git) and unzip it or clone the repo into `/_add-ons/`.
+2. Ensure the folder name is `disqus` (Github timestamps the download folder).
+3. Enjoy.
 
-- *v1* — Now works with versions v1.5-v1.7 (and beyond)
+## Usage
+
+Add Disqus comments to your page by dropping in the tag and setting the `account` parameter
+    
+    {{ disqus account="username" }}
+
+## Parameters
+
+- `account`: your disqus account
+- `dev`: set to true/false to turn on developer mode
