@@ -13,7 +13,7 @@ Disqus plugin for Statamic.
 
 Add Disqus comments to your page by dropping in the tag and setting the `account` parameter
     
-    {{ disqus account="username" }}
+    {{ disqus:comments account="username" }}
 
 ## Parameters
 
