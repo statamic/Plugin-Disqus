@@ -35,4 +35,4 @@ with the comment count, for example:
 
     <a href="http://example.com/article2.html#disqus_thread">13 Comments</a>
 
-If you used the `url` parameter above in your Disqus tag then you can use the attribute `data-disqus-identifier` in your anchor links and the href attribute can be whatever you like. See the Disqus help page [Adding comment count links to your home page](http://help.disqus.com/customer/portal/articles/565624-tightening-your-disqus-integration)
+If you used the `url` parameter above in your Disqus tag then you can use the attribute `data-disqus-identifier` in your anchor links and the href attribute can be whatever you like. See the Disqus help page [Adding comment count links to your home page](http://help.disqus.com/customer/portal/articles/565624-tightening-your-disqus-integration) for more details.
