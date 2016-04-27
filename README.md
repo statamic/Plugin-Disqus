@@ -1,4 +1,4 @@
-Plugin-Disqus
+Plugin-Disqus ![Statamic v1](https://img.shields.io/badge/statamic-v1-lightgrey.svg?style=flat-square)
 =============
 
 [Disqus](http://disqus.com) is a third-party comments service. A really good one. This will make using them with Statamic really, really easy.
